@@ -1,0 +1,37 @@
+_repo: Elsie-at-the-World-s-Fair_14910
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Farquharson, Martha
+    - Cousin Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: 'Elsie and her whole family attend the 1893 World''s Fair Exposition
+  in Chicago. The traveling party enjoys several weeks touring the many exhibits and
+  amusements. Love is also in the air at the fair: Rosie and Lulu are pursued by suitors,
+  and another happy couple is married.'
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'World''s Columbian Exposition (1893 : Chicago, Ill.) -- Juvenile fiction'
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+title: Elsie at the World's Fair
+url: http://www.gutenberg.org/ebooks/14910
